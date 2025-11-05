@@ -144,7 +144,7 @@ Python_Conceptual_Interview_Prep/
 
 ---
 
-## ✅ Validation Status 
+## ✅ Validation Status
 
 **All questions validated** against:
 - GeeksforGeeks SDET Interview Questions
